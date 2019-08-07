@@ -8,4 +8,10 @@ public class FirstGitClass {
         System.out.println("hello gitProject");
         System.out.println("hello gitProject");
     }
+
+    public void test(){
+        int a=10;
+        a=a*a;
+        System.out.println(a);
+    }
 }
